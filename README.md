@@ -1,4 +1,4 @@
-# advanced-css-final-project
+# Advanced CSS - Final Project
 
 Hello!
 
